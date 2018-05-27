@@ -1,5 +1,9 @@
 # z-shell resource
 
+## theme
+
+pure - https://github.com/sindresorhus/pure
+
 ## plugins
 
 * git
